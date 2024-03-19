@@ -1,4 +1,6 @@
-.my_initial_model.keras
+my_initial_model.keras
 optimization.py
 powermetrics_log.txt
 emissions.csv
+iris_data.npz
+intro_theorie.md
