@@ -18,7 +18,6 @@ pip install -r requirements.txt
 
 ## Structure du Repo
 - `README.md` : Instructions générales et informations sur l'atelier.
-- `intro_theorie.md` : Introduction et concepts théoriques de la Green AI.
 - `data_prep.py` : Script pour la préparation des données.
 - `model_training.py` : Script pour l'entraînement du modèle de base avec suivi de l'empreinte carbone.
 - `optimization.py` : Script pour l'application des techniques d'optimisation et quantification du modèle.
@@ -26,11 +25,10 @@ pip install -r requirements.txt
 - `requirements.txt` : Fichier contenant les bibliothèques nécessaires à installer.
 
 ## Comment Utiliser
-1. **Introduction Théorique :** Lisez `intro_theorie.md` pour une introduction aux concepts de Green AI et Red AI.
-2. **Préparation des Données :** Exécutez `data_prep.py` pour préparer vos données pour l'entraînement.
-3. **Entraînement du Modèle :** Utilisez `model_training.py` pour entraîner votre modèle de base et mesurer son empreinte carbone.
-4. **Optimisation :** Appliquez des techniques d'optimisation avec `optimization.py` pour réduire l'empreinte carbone de votre modèle.
-5. **Analyse des Résultats :** Analysez les résultats avant et après optimisation avec `results_analysis.py`.
+1. **Préparation des Données :** Exécutez `data_prep.py` pour préparer vos données pour l'entraînement.
+2. **Entraînement du Modèle :** Utilisez `model_training.py` pour entraîner votre modèle de base et mesurer son empreinte carbone.
+3. **Optimisation :** Appliquez des techniques d'optimisation avec `optimization.py` pour réduire l'empreinte carbone de votre modèle.
+4. **Analyse des Résultats :** Analysez les résultats avant et après optimisation avec `results_analysis.py`.
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
